@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santhosh191221
 - 👀 I’m interested in Data Analytics, cloud computing
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
