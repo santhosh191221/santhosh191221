@@ -1,6 +1,6 @@
 
 
-👀 I'm Santhosh, a passionate about Data analyst and Python developer with a knack for transforming data into meaningful insights using Python and Power BI. 💻
+👀 I'm Santhosh, a passionate about AI,ML,Data analyst and Python developer. 💻
 
 
 📊 Exploring the realms of Python and data visualization is not just a job but a journey I'm passionate about. 🌌 If there's data to decipher, insights to uncover, or a challenge to conquer, count me in!
